@@ -12,13 +12,13 @@
 
 <h3 align="center">My Projects</h3>
 
-<h5>☑ [Battleship](https://github.com/NikitaKJava/HyperSkill_Java_Core_Projects/tree/main/Battleship)</h5>  
-<h5>✅ List coming soon...</h5>  
-<h5>✅ List coming soon...</h5>  
-<h5>✅ List coming soon...</h5>  
-<h5>✅ List coming soon...</h5>  
-<h5>✅ List coming soon...</h5>
-<h5>✅ List coming soon...</h5>  
+<p>☑ [Battleship](https://github.com/NikitaKJava/HyperSkill_Java_Core_Projects/tree/main/Battleship)</p>  
+<p>✅ List coming soon...</p>  
+<p>✅ List coming soon...</p>  
+<p>✅ List coming soon...</p>  
+<p>✅ List coming soon...</p>  
+<p>✅ List coming soon...</p>
+<p>✅ List coming soon...</p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikitaKJava&show_icons=true&locale=en&layout=compact" alt="NikitaKJava" /></p>
 
