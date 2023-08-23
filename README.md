@@ -22,13 +22,13 @@
 
 <h4>JavaScript</h4>
 
-✅ [Coffeemachine](https://github.com/NikitaKJava/HyperSkill_Java_Core_Projects/tree/main/Coffee%20Machine%20(Java)) 
+✅ [Coffeemachine](https://github.com/NikitaKJava/HyperSkill-Projects/tree/main/Frontend%20Core/Coffee%20Machine%20(JavaScript))
 
 <p>✅ List coming soon...</p>
 
 <h4>Frontend</h4>
 
-<p>✅ List coming soon...</p>  
+✅ [Flashcards](https://github.com/NikitaKJava/HyperSkill-Projects/tree/main/Frontend%20Core/Flashcards/Flashcards%20(Frontend)/task/src)
 
 <p>✅ List coming soon...</p>
 
