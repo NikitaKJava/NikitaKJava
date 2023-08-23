@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NikitaKJava&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaKJava" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NikitaKJava" alt="NikitaKJava" /></a> </p>
-
 - 🔭 I’m currently working on [Battleship](https://github.com/NikitaKJava/HyperSkill_Java_Core_Projects/tree/main/Battleship)
 
 - 🌱 I’m currently learning **DevOps, Java Spring**
